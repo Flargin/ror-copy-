@@ -1,0 +1,1 @@
+draw_sprite(sprRedical, 0, mouse_x - objCamera.x + view_wport[0]/2, mouse_y - objCamera.y + view_hport[0]/2)

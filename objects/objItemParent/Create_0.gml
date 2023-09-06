@@ -1,0 +1,2 @@
+randomise();
+item = 0;
